@@ -1,6 +1,6 @@
 #labels Featured
 = Introduction =
-LSLSnippetsApp comes with three LSLSnippet XML Files:
+LSLSnippetsApp comes with three LSLSnippet XML Files (and you can create more from your re-usable LSL code or download shared XML):
 
 ||[http://lslsnippets.googlecode.com/files/llPlaySound.xml llPlaySound.xml]||Inserts a custom code in the beginning of the script. The custom method called PlaySound.  Inserts one line of code in touch_start code block. This line calls PlaySound.||
 ||[http://lslsnippets.googlecode.com/files/llsay.xml llsay.xml]||Inserts one llSay line of code in state_entry.  Inserts one llSay line of code in touch_start.||
