@@ -1,8 +1,12 @@
 #labels Featured
-= Introduction UNDER CONSTRUCTION =
-Create a snippet using xml. lslSnippetsLib can read the xml and convert an existing script an enter the snippets found in the xml.
+= Introduction =
+LSLSnippetsApp comes with three LSLSnippet XML Files:
 
+||llPlaySound.xml||Inserts a custom code in the beginning of the script. The custom method called PlaySound.  Inserts one line of code in touch_start code block. This line calls PlaySound.||
+||llsay.xml||Inserts one llSay line of code in state_entry.  Inserts one llSay line of code in touch_start.||
+||NotecardReaderv3.xml||This xml does a lot. This is re-usable script that inspired this project. After using this xml, your script can read notecards. This script does not read comment lines found in the notecard. It also reads comma-separated lines.||
 
+These are example files you may use out-of-the-box and are also found in the [http://code.google.com/p/lslsnippets/downloads/list Downloads] area. 
 
 === Browse to your avatar's .inv file or .gz cache ===
 ||http://joeswammi.com/sl/se/slmyinventory/open_scrn.jpg||
