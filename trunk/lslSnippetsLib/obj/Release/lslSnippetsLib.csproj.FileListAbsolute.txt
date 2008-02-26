@@ -1,0 +1,5 @@
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\lslSnippetsApp\lslSnippetsLib\bin\Release\lslSnippetsLib.dll
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\lslSnippetsApp\lslSnippetsLib\bin\Release\lslSnippetsLib.pdb
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\lslSnippetsApp\lslSnippetsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\lslSnippetsApp\lslSnippetsLib\obj\Release\lslSnippetsLib.dll
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\lslSnippetsApp\lslSnippetsLib\obj\Release\lslSnippetsLib.pdb
