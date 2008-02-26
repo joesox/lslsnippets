@@ -2,7 +2,7 @@
 = Introduction UNDER CONSTRUCTION =
 Create a snippet using xml. lslSnippetsLib can read the xml and convert an existing script an enter the snippets found in the xml.
 
-== Currently Supported LSL Methods ==
+== Currently Supported LSL Methods (valid InsertToEvent values) ==
   * at_rot_target
   * at_target
   * attach
@@ -19,8 +19,8 @@ Create a snippet using xml. lslSnippetsLib can read the xml and convert an exist
   * land_collision_start
   * link_message
   * listen
-  * _lslstart_
-  * _lslend_
+  * _lslstart_ [Use this as the InsertToEvent value to insert code at the start of a lsl script]
+  * _lslend_ [Use this as the InsertToEvent value to insert code at the end of a lsl script]
   * money
   * moving_end
   * moving_start
