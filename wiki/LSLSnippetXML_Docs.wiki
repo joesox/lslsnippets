@@ -1,0 +1,25 @@
+#labels Featured
+= Introduction to Understanding LSLSnippet XML =
+
+= Three Basic Values and Tags =
+  * Title (A summary name of the LSLSnippet. One value per XML file.)
+  * InsertToEvent (LSL event method that you want to place associated code. eg. 'state_entry')
+  * <![CDATA[]]> (The code that you want to place in the previously associated InsertToEvent)
+
+== Example LSL Snippet XML File ==
+{{{
+<LSLSnippets xmlns="http://joeswammi.com/sl/se/LSLSnippet">
+  <CodeSnippet Format="1.0.0" Title="llPlaySound">
+    <Snippet InsertToEvent="touch_start">
+      <![CDATA[PlaySound("my_soundwav", 1);]]>
+    </Snippet>
+    <Snippet InsertToEvent="lslstart">
+      <![CDATA[PlaySound(string sound, float volume)
+{
+	if(llGetInventoryType(sound) == INVENTORY_SOUND)
+		llPlaySound(sound, volume);
+}]]>
+    </Snippet>
+  </CodeSnippet>
+</LSLSnippets>
+}}}
