@@ -2,11 +2,39 @@
 = Introduction =
 LSLSnippetsApp comes with three LSLSnippet XML Files:
 
-||llPlaySound.xml||Inserts a custom code in the beginning of the script. The custom method called PlaySound.  Inserts one line of code in touch_start code block. This line calls PlaySound.||
-||llsay.xml||Inserts one llSay line of code in state_entry.  Inserts one llSay line of code in touch_start.||
-||NotecardReaderv3.xml||This xml does a lot. This is re-usable script that inspired this project. After using this xml, your script can read notecards. This script does not read comment lines found in the notecard. It also reads comma-separated lines.||
+||[http://lslsnippets.googlecode.com/files/llPlaySound.xml llPlaySound.xml]||Inserts a custom code in the beginning of the script. The custom method called PlaySound.  Inserts one line of code in touch_start code block. This line calls PlaySound.||
+||[http://lslsnippets.googlecode.com/files/llsay.xml llsay.xml]||Inserts one llSay line of code in state_entry.  Inserts one llSay line of code in touch_start.||
+||[http://lslsnippets.googlecode.com/files/NotecardReaderv3.xml NotecardReaderv3.xml]||This xml does a lot. This is re-usable script that inspired this project. After using this xml, your script can read notecards. This script does not read comment lines found in the notecard. It also reads comma-separated lines.||
 
 These are example files you may use out-of-the-box and are also found in the [http://code.google.com/p/lslsnippets/downloads/list Downloads] area. 
 
-=== Browse to your avatar's .inv file or .gz cache ===
-||http://joeswammi.com/sl/se/slmyinventory/open_scrn.jpg||
+=== How To Use a LSLSnippet XML File ===
+  # First, open a template script. File > Open
+||http://joeswammi.com/sl/se/lslsnippets/open.jpg||>||http://joeswammi.com/sl/se/lslsnippets/newlsl_scrn.jpg||
+
+  # Now, let's open the XML Creator tabpage. Snippets > Create XML
+||http://joeswammi.com/sl/se/lslsnippets/createxml_new.jpg||
+
+  # Type in a Title in the title textbox and press 'Set Title>' button
+  # Choose an existing LSL Event method to insert this value into the InsertToEvent value from the dropdownlist.
+||http://joeswammi.com/sl/se/lslsnippets/dropdownlist.jpg||
+
+  # Let's add our reusable code to the Code textbox. 
+{{{
+llSay(0, "Hello World from XMLSnippets!!!");
+}}}
+||http://joeswammi.com/sl/se/lslsnippets/codetextbox.jpg||
+
+  # Then click the 'Add' button to add the LSLSnippet xml block.
+||http://joeswammi.com/sl/se/lslsnippets/llsayblock.jpg||
+
+  # Click the 'Save XML As...' button. Then type in the File name 'helloworld' to save it in the snippets folder as 'helloworld.xml'
+  # Now it is time to use this 'helloworld.xml'. Click the previously opened new.lsl tab.
+  # From the Menu toolbar, click Snippets > Insert.
+  # Choose 'helloworld.xml' from the available LSLSnippets.
+||http://joeswammi.com/sl/se/lslsnippets/availsnips.jpg||
+
+  # The entire script is now highlighted and read to be copied to the clipboard. You can press the 'Copy' or 'Select All' buttons for this step also.
+
+  # Save the new script or paste it into SL!
+||http://joeswammi.com/sl/se/lslsnippets/scriptinsl.jpg||
