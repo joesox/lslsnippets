@@ -1,0 +1,8 @@
+bin\Debug\TestPlugin.exe
+bin\Debug\TestPlugin.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestPlugin.Form1.resources
+obj\Debug\TestPlugin.Properties.Resources.resources
+obj\Debug\TestPlugin.csproj.GenerateResource.Cache
+obj\Debug\TestPlugin.exe
+obj\Debug\TestPlugin.pdb

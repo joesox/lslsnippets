@@ -1,0 +1,10 @@
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\LSLSnippetsPlugin\TestPlugin\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\LSLSnippetsPlugin\TestPlugin\obj\Release\TestPlugin.Form1.resources
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\LSLSnippetsPlugin\TestPlugin\obj\Release\LSLSnippetsPlugin.csproj.GenerateResource.Cache
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\LSLSnippetsPlugin\TestPlugin\bin\Release\LSLSnippetsPlugin.exe
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\LSLSnippetsPlugin\TestPlugin\bin\Release\LSLSnippetsPlugin.pdb
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\LSLSnippetsPlugin\TestPlugin\obj\Release\LSLSnippetsPlugin.Properties.Resources.resources
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\LSLSnippetsPlugin\TestPlugin\obj\Release\LSLSnippetsPlugin.exe
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\LSLSnippetsPlugin\TestPlugin\obj\Release\LSLSnippetsPlugin.pdb
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\LSLSnippetsPlugin\TestPlugin\bin\Release\lslSnippetsLib.dll
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\LSLSnippetsPlugin\TestPlugin\bin\Release\lslSnippetsLib.pdb

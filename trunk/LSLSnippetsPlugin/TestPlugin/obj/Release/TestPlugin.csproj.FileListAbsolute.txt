@@ -1,0 +1,8 @@
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\TestPlugin\bin\Release\TestPlugin.exe
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\TestPlugin\bin\Release\TestPlugin.pdb
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\TestPlugin\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\TestPlugin\obj\Release\TestPlugin.Form1.resources
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\TestPlugin\obj\Release\TestPlugin.Properties.Resources.resources
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\TestPlugin\obj\Release\TestPlugin.csproj.GenerateResource.Cache
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\TestPlugin\obj\Release\TestPlugin.exe
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\TestPlugin\obj\Release\TestPlugin.pdb
