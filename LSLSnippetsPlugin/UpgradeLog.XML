@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TestPlugin">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\TestPlugin.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\TestPlugin.suo">
+</Property><Property Name="Date" Value="Sunday, February 24, 2008">
+</Property><Property Name="Time" Value="6:19 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TestPlugin.sln" Description="File successfully backed up as C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\Backup\TestPlugin.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TestPlugin.suo" Description="File successfully backed up as C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\Backup\TestPlugin.suo">
+</Event><Event ErrorLevel="0" Project="TestPlugin" Source="TestPlugin\TestPlugin.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\Backup\TestPlugin\TestPlugin.csproj">
+</Event><Event ErrorLevel="0" Project="TestPlugin" Source="TestPlugin\Form1.cs" Description="File successfully backed up as C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\Backup\TestPlugin\Form1.cs">
+</Event><Event ErrorLevel="0" Project="TestPlugin" Source="TestPlugin\Form1.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\Backup\TestPlugin\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TestPlugin" Source="TestPlugin\Program.cs" Description="File successfully backed up as C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\Backup\TestPlugin\Program.cs">
+</Event><Event ErrorLevel="0" Project="TestPlugin" Source="TestPlugin\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\Backup\TestPlugin\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TestPlugin" Source="TestPlugin\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\Backup\TestPlugin\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TestPlugin" Source="TestPlugin\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\Backup\TestPlugin\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TestPlugin" Source="TestPlugin\Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\Backup\TestPlugin\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TestPlugin" Source="TestPlugin\Form1.resx" Description="File successfully backed up as C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\Backup\TestPlugin\Form1.resx">
+</Event><Event ErrorLevel="0" Project="TestPlugin" Source="TestPlugin\Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\Backup\TestPlugin\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TestPlugin" Source="TestPlugin\TestPlugin.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestPlugin" Source="TestPlugin\TestPlugin.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TestPlugin.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TestPlugin.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestPlugin" Source="TestPlugin\TestPlugin.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

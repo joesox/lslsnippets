@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lslSnippetsApp", "lslSnippetsApp\lslSnippetsApp.csproj", "{B71779F4-1268-48F4-81FB-5838A4277FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lslSnippetsLib", "lslSnippetsLib\lslSnippetsLib.csproj", "{819B3DF8-21E7-4B66-9C2E-F60CD82B9638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B71779F4-1268-48F4-81FB-5838A4277FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71779F4-1268-48F4-81FB-5838A4277FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71779F4-1268-48F4-81FB-5838A4277FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71779F4-1268-48F4-81FB-5838A4277FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819B3DF8-21E7-4B66-9C2E-F60CD82B9638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819B3DF8-21E7-4B66-9C2E-F60CD82B9638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819B3DF8-21E7-4B66-9C2E-F60CD82B9638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819B3DF8-21E7-4B66-9C2E-F60CD82B9638}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

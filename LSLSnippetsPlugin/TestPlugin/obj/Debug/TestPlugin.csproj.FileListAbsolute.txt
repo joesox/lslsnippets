@@ -1,0 +1,2 @@
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\SecondLife\TestPlugin\TestPlugin\obj\Debug\TestPlugin.exe
+C:\Documents and Settings\Joseph\My Documents\Visual Studio 2008\Projects\LSLSnippetsPlugin\TestPlugin\obj\Debug\TestPlugin.exe
