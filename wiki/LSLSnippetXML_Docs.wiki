@@ -54,6 +54,7 @@
   * remote_data
   * run_time_permissions
   * sensor
+  * state_entry
   * state_exit
   * timer
   * touch
